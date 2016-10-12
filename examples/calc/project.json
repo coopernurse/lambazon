@@ -1,0 +1,10 @@
+
+{
+  "name": "calc",
+  "description": "calculator on the web",
+  "memory": 128,
+  "timeout": 5,
+  "role": "changeme",
+  "defaultEnvironment": "dev",
+  "environment": {}
+}
