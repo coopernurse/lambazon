@@ -13,7 +13,11 @@ then deploy and run it at AWS Lambda *with no changes*.
 This has been lightly tested and should be considered experimental.
 Please file issues with ideas / problems.
 
-## Example main.go file
+## Examples
+
+See the [calc example](examples/calc/) for more details.
+
+## Apex function main.go file
 
 This is how simple your Apex function `main.go` can be:
 
